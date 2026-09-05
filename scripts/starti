@@ -1,0 +1,5 @@
+#!/bin/sh
+
+CONFIG_HOME=${XDG_CONFIG_HOME:-"$HOME/.config"}
+
+startx $CONFIG_HOME/i3/xinitrc-i3
