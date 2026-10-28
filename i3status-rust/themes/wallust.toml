@@ -1,20 +1,20 @@
-idle_bg = "#000103"
+idle_bg = "#030301"
 idle_fg = "#d2d4de"
 
-info_bg = "#000104"
+info_bg = "#040402"
 info_fg = "#d2d4de"
 
-good_bg = "#41444A"
+good_bg = "#484D4C"
 good_fg = "#d2d4de"
 
-warning_bg = "#62696F"
+warning_bg = "#5B5E59"
 warning_fg = "#d2d4de"
 
-critical_bg = "#414549"
+critical_bg = "#3F4546"
 critical_fg = "#d2d4de"
 
 separator = " "
 separator_fg = "auto"
 separator_bg = "auto"
 
-alternating_tint_bg = "#6C7277"
+alternating_tint_bg = "#75746E"
